@@ -78,6 +78,6 @@ imagePullSecrets:
   - name: tap-registry
 ```
 
-See [set up namespaces](../set-up-nmaespaces.md) for more details.
+See [set up namespaces](../set-up-namespaces.md) for more details.
 
 See https://docs.aws.amazon.com/eks/latest/userguide/iam-roles-for-service-accounts.html
